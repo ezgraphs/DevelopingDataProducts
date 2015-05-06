@@ -5,4 +5,5 @@ In addition, the value of the particular fund at the beginning and end of the ti
 
 Completed as part of the Developing Data Products course in the Data Science Track from Coursera / JHU Data (https://class.coursera.org/devdataprod-014).
 
-Available live at https://stocks.shinyapps.io/DevelopingDataProducts/
+Available live at:
+   https://stocks.shinyapps.io/DevelopingDataProducts/
